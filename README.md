@@ -11,4 +11,4 @@ The .xlsx file includes:
  * K-means cluster groups for diversion rates and median income 
  * K-means cluster groups for refuse waste and median income 
 
-The jupyter notebook is the code I used to visualize the K-means cluser analyses in scatterplots. 
+The jupyter notebook is the code I used to visualize the K-means cluser analyses. 
