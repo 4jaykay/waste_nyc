@@ -1,6 +1,6 @@
 # waste_nyc
 
-This is some of the data for [my project](https://juliekerisel.wixsite.com/jkrsl/nyc-waste) on waste and waste diversion in NYC from 2019 and 2021. 
+This is some of the data I used for [my project](https://juliekerisel.wixsite.com/jkrsl/nyc-waste) on waste and waste diversion in NYC from 2019 and 2021. 
 
 The .xlsx file includes: 
  * a data dictionary, 
